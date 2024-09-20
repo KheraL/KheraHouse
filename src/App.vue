@@ -97,7 +97,7 @@ img {
   margin-left: 19px;
   border-radius: 27px;
   font-weight: 500;/*用于设置文本粗细*/
-  font-size: 17;
+  font-size: 17px;
   color:#ffffff;
   display: flex;
   align-items: center;
