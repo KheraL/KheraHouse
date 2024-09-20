@@ -6,7 +6,7 @@
       <img class="identification" src="./assets/iden.png">
       <div class="openaccount-btn" @click="openAccount">
         <div class="openimmedia">立即开户</div>
-        <div class="availbletime">网上开户时间为交易日09:00 - 11:39、13:00 - 16:55</div>
+        <div class="availbletime">网上开户时间为交易日09:00 - 11:29、13:00 - 16:55</div>
       </div>
     </div>
     <img class="needhelptext" src="./assets/needhelp.png">
