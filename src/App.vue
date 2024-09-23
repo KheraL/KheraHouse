@@ -78,7 +78,7 @@ img {
   border-radius: 15px;
   margin-left: 15px;
   position: relative;
-  bottom: 120px;
+  bottom: 140px;
   overflow: hidden;
 }
 
@@ -116,7 +116,7 @@ img {
   color: #777;
   line-height: 16px;
   text-align: center;
-  margin-top: 17px;
+  margin-top: 20px;
   font-family: PingFangSC, PingFang SC;
 }
 
@@ -124,7 +124,7 @@ img {
   width: 273px;
   height: 20px;
   position: relative;
-  bottom: 80px;
+  bottom: 75px;
   margin-left: 47px;
 }
 
@@ -165,9 +165,3 @@ img {
 
 
 
-two flower one word
-tongshang
-tongshang
-tongshang
-three word
-three flower
