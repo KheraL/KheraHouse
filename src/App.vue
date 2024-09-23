@@ -1,7 +1,7 @@
 <template>
 
   <div class="topImag">
-    <img class="openImag" src="./assets/bgImg.png">
+    <img class="openImag" src="./assets/bgimg2.png">
     <div class="preparebox">
       <img class="identification" src="./assets/iden.png">
       <div class="openaccount-btn" @click="openAccount">
@@ -162,3 +162,12 @@ img {
   margin-top: 8px;
 }
 </style>
+
+
+
+two flower one word
+tongshang
+tongshang
+tongshang
+three word
+three flower
